@@ -18,4 +18,6 @@ This repository contains my complete DevOps learning journey from beginner to jo
 
 ## Goal
 
-Build a complete end-to-end DevOps project while learning every concept step by step.
+Build a complete end-to-end DevOps project while learning every concept step by step.## Progress
+
+- Git Basics ✅
