@@ -21,3 +21,7 @@ This repository contains my complete DevOps learning journey from beginner to jo
 Build a complete end-to-end DevOps project while learning every concept step by step.## Progress
 
 - Git Basics ✅
+
+## Day 2
+
+Learning Git Diff
