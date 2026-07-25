@@ -25,3 +25,7 @@ Build a complete end-to-end DevOps project while learning every concept step by 
 ## Day 2
 
 Learning Git Diff
+
+## Feature Homepage
+
+This section was added in the feature-homepage branch.
